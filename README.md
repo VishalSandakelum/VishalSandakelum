@@ -1,6 +1,8 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=138FF7&width=550&height=65&lines=Hi+👋+I'm+Vishal+Sandakelum.;I'm+a+Devaloper👨‍💻.;I'm+a+Designer✨.;I%2Cm+a+Freelancer🤖.)](https://git.io/typing-svg)
-<br><br><h1>A passionate full stack developer from Sri Lanka .</h1><br><h4>🌱 I’m currently learning Java,Spring Boot,Machine Learning</h4><h4>👨‍💻 All of my projects are available at http://vishalsandakelum.great-site.net/</h4><h4>💬 Ask me about Programming</h4><h4>📫 How to reach me vishalsandakelum20@gmail.com</h4>
+<br><br><h1 align="center"><b><i>A passionate full stack developer from Sri Lanka .</i></b></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+<br><h4>🌱 I’m currently learning Java,Spring Boot,Machine Learning</h4><h4>👨‍💻 All of my projects are available at http://vishalsandakelum.great-site.net/</h4><h4>💬 Ask me about Programming</h4><h4>📫 How to reach me vishalsandakelum20@gmail.com</h4>
 
 
 ## 🌐 Socials:
