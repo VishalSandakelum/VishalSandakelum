@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=138FF7&width=550&height=65&lines=Hi+👋+I'm+Vishal+Sandakelum.;I'm+a+Devaloper👨‍💻.;I'm+a+Designer✨.;I%2Cm+a+Freelancer🤖.)](https://git.io/typing-svg)
-<br><br><h1>A passionate full stack developer from Sri Lanka .</h1><br><br><br>🌱 I’m currently learning Java,Spring Boot,Machine Learning<br><br>👨‍💻 All of my projects are available at http://vishalsandakelum.great-site.net/<br><br>💬 Ask me about Programming<br><br>📫 How to reach me vishalsandakelum20@gmail.com
+<br><br><h1>A passionate full stack developer from Sri Lanka .</h1><br><br>🌱 I’m currently learning Java,Spring Boot,Machine Learning<br><br>👨‍💻 All of my projects are available at http://vishalsandakelum.great-site.net/<br><br>💬 Ask me about Programming<br><br>📫 How to reach me vishalsandakelum20@gmail.com
 
 
 ## 🌐 Socials:
