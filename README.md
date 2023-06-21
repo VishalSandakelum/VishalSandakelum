@@ -26,4 +26,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VishalSandakelum&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalSandakelum&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalSandakelum&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalSandakelum&theme=2077)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11D1E5&height=120&section=footer"/>
