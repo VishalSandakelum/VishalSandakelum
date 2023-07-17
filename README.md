@@ -6,7 +6,12 @@
   <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2574F7&width=435&lines=Always+Learing++New+Things%F0%9F%A4%94.;Computer+Science+Student%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB.;Java%7CAlgorithms%7COop%7CMachine+Learning;IJSE+GDSE+STUDENT."></a>
 </p>
 <h4>🌱 I’m currently learning Java,Spring Boot,Machine Learning</h4><h4>👨‍💻 All of my projects are available at http://vishalsandakelum.great-site.net/</h4><h4>💬 Ask me about Programming</h4><h4>📫 How to reach me vishalsandakelum20@gmail.com</h4>
-
+<img align="left" alt = "certificate" width="300" src = "https://github.com/VishalSandakelum/VishalSandakelum/blob/main/certificate.png">
+<br>
+<br>
+<br><br><br><br>
+<br>
+<br><br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/vishalsandakelum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-sandakelum-352294258/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22070634) 
