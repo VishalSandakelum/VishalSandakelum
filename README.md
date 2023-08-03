@@ -7,9 +7,7 @@
 </p>
 <h4>🌱 I’m currently learning Java,Spring Boot,Machine Learning</h4><h4>👨‍💻 All of my projects are available at http://vishalsandakelum.great-site.net/</h4><h4>💬 Ask me about Programming</h4><h4>📫 How to reach me vishalsandakelum20@gmail.com</h4>
 <img align="left" alt = "certificate" width="300" src = "https://github.com/VishalSandakelum/VishalSandakelum/blob/main/certificate.png">
-<br>
-<br>
-<br><br><br><br>
+<img align="middle" alt = "certificate" width="300" src = "https://github.com/VishalSandakelum/VishalSandakelum/blob/main/certificate2.png">
 <br>
 <br><br><br>
 
