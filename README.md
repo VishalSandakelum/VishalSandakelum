@@ -27,6 +27,22 @@
 
 <div align="center">
 
+### `— CURRENTLY —`
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Mono&weight=300&size=14&pause=3000&color=888888&center=true&vCenter=true&width=600&height=30&lines=Building+full-stack+applications+with+Java+%26+Spring+Boot;Exploring+Machine+Learning+%26+AI+integrations;Open+for+freelance+projects+%26+collaborations;Computer+Science+Undergraduate+%7C+IJSE+GDSE)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
 ### `— LANGUAGES & TOOLS —`
 
 <br>
@@ -79,6 +95,76 @@
 
 <div align="center">
 
+### `— TROPHIES —`
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=VishalSandakelum&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### `— CONTRIBUTION ACTIVITY —`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSandakelum&bg_color=0d0d0d&color=888888&line=c8b89a&point=e8e0d0&area=true&area_color=c8b89a&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### `— SNAKE —`
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake-dark.svg" />
+</picture>
+
+> **To enable the snake:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo — it auto-generates the SVG into an `output` branch on a schedule.
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### `— A THOUGHT —`
+
+<br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
 ### `— FIND ME —`
 
 <br>
@@ -87,6 +173,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=c8b89a)](https://fb.com/vishalsandakelum)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-1a1a1a?style=for-the-badge&logo=stackoverflow&logoColor=c8b89a)](https://stackoverflow.com/users/22070634)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=firefox&logoColor=c8b89a)](http://vishalsandakelum.great-site.net/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c8b89a)](mailto:vishalsandakelum20@gmail.com)
 
 <br>
 
