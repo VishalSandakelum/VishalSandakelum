@@ -43,6 +43,25 @@
 
 <div align="center">
 
+### `— AT A GLANCE —`
+
+<br>
+
+![Repos](https://img.shields.io/badge/Public%20Repos-37-c8b89a?style=flat-square&labelColor=0d0d0d&color=1a1a1a&logoColor=c8b89a)
+![Stars](https://img.shields.io/github/stars/VishalSandakelum?style=flat-square&labelColor=0d0d0d&color=1a1a1a&label=Total%20Stars&logoColor=c8b89a)
+![Followers](https://img.shields.io/github/followers/VishalSandakelum?style=flat-square&labelColor=0d0d0d&color=1a1a1a&label=Followers&logoColor=c8b89a)
+![Profile Views](https://komarev.com/ghpvc/?username=VishalSandakelum&style=flat-square&color=1a1a1a&label=Profile+Views&labelColor=0d0d0d)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
 ### `— LANGUAGES & TOOLS —`
 
 <br>
@@ -72,36 +91,21 @@
 
 <br>
 
-<div align="center">
-
-### `— GITHUB METRICS —`
+### `— SKILL DEPTH —`
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishalSandakelum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c8b89a&text_color=888888&icon_color=c8b89a&ring_color=c8b89a&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=VishalSandakelum&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=c8b89a&fire=e8e0d0&currStreakNum=e8e0d0&sideNums=888888&currStreakLabel=c8b89a&sideLabels=555555&dates=444444" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSandakelum&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c8b89a&text_color=888888&layout=donut&count_private=true" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### `— TROPHIES —`
-
-<br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=VishalSandakelum&theme=onestar&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-
-</div>
+```text
+Java              ███████████████████░░   90%   primary language · OOP · algorithms
+JavaScript        ████████████████░░░░░   75%   frontend · dom · async
+Python            █████████████░░░░░░░░   60%   scripting · ML experiments
+PHP               ████████████░░░░░░░░░   55%   web backend · REST APIs
+Spring Boot       ████████████████░░░░░   75%   REST · JPA · security
+MySQL             ████████████████░░░░░   75%   relational · query optimisation
+MongoDB           ████████████░░░░░░░░░   55%   nosql · document modelling
+Figma / UI Design ██████████████░░░░░░░   65%   wireframes · prototyping
+Machine Learning  ████████░░░░░░░░░░░░░   35%   actively learning ↑
+```
 
 <br>
 
@@ -115,7 +119,7 @@
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSandakelum&bg_color=0d0d0d&color=888888&line=c8b89a&point=e8e0d0&area=true&area_color=1a1a1a&hide_border=true&radius=6&custom_title=Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSandakelum&bg_color=0d0d0d&color=555555&line=c8b89a&point=e8e0d0&area=true&area_color=1a1a1a&hide_border=true&radius=6&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -125,19 +129,16 @@
 
 <br>
 
-<div align="center">
-
-### `— SNAKE —`
+### `— FEATURED PROJECTS —`
 
 <br>
 
-> ⚙️ **One-time setup required** — Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo to generate the snake SVG automatically. Once set up, replace this block with:
->
-> ```md
-> ![snake gif](https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake-dark.svg)
-> ```
-
-</div>
+| Project | Stack | Stars |
+|---|---|---|
+| [**GarmentSolution — Layered Architecture**](https://github.com/VishalSandakelum/GarmentSolution-Layerd-Architecture-) | Java · OOP · Layered MVC | ⭐ 18 |
+| [**My Portfolio**](https://github.com/VishalSandakelum/MyPortfolio) | HTML · CSS · JS | ⭐ 7 |
+| [**Garmentsolution**](https://github.com/VishalSandakelum/Garmentsolution) | Java · MySQL | ⭐ 6 |
+| [**sample-gdse66**](https://github.com/VishalSandakelum/sample-gdse66) | Java | ⭐ 5 |
 
 <br>
 
