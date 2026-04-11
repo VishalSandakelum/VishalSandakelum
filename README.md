@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=VISHAL%20SANDAKELUM&fontSize=42&fontColor=e8e0d0&fontAlignY=55&desc=Full%20Stack%20Developer%20·%20Sri%20Lanka&descSize=14&descAlignY=75&descColor=888888&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=VISHAL%20SANDAKELUM&fontSize=42&fontColor=e8e0d0&fontAlignY=55&desc=Full%20Stack%20Developer%20%C2%B7%20Sri%20Lanka&descSize=14&descAlignY=75&descColor=888888&animation=fadeIn" />
 
 </div>
 
@@ -78,12 +78,12 @@
 
 <br>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VishalSandakelum&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8b89a&text_color=888888&icon_color=c8b89a&include_all_commits=false&count_private=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSandakelum&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8b89a&text_color=888888&layout=compact&count_private=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishalSandakelum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c8b89a&text_color=888888&icon_color=c8b89a&ring_color=c8b89a&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=VishalSandakelum&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=c8b89a&fire=e8e0d0&currStreakNum=e8e0d0&sideNums=888888&currStreakLabel=c8b89a&sideLabels=555555&dates=444444" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalSandakelum&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=c8b89a&fire=c8b89a&currStreakNum=e8e0d0&sideNums=888888&currStreakLabel=c8b89a&sideLabels=555555&dates=444444" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSandakelum&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c8b89a&text_color=888888&layout=donut&count_private=true" />
 
 </div>
 
@@ -99,7 +99,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VishalSandakelum&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=VishalSandakelum&theme=onestar&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 
 </div>
 
@@ -115,7 +115,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSandakelum&bg_color=0d0d0d&color=888888&line=c8b89a&point=e8e0d0&area=true&area_color=c8b89a&hide_border=true&custom_title=Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSandakelum&bg_color=0d0d0d&color=888888&line=c8b89a&point=e8e0d0&area=true&area_color=1a1a1a&hide_border=true&radius=6&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -131,13 +131,11 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake-dark.svg" />
-</picture>
-
-> **To enable the snake:** Add [this GitHub Action](https://github.com/Platane/snk) to your profile repo — it auto-generates the SVG into an `output` branch on a schedule.
+> ⚙️ **One-time setup required** — Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo to generate the snake SVG automatically. Once set up, replace this block with:
+>
+> ```md
+> ![snake gif](https://raw.githubusercontent.com/VishalSandakelum/VishalSandakelum/output/github-snake-dark.svg)
+> ```
 
 </div>
 
@@ -183,4 +181,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=100&section=footer" />
