@@ -14,7 +14,7 @@
     based    : "Sri Lanka 🇱🇰",
     stack    : ["Java", "Spring Boot", "JavaScript", "Python", "PHP"],
     learning : ["Machine Learning", "System Design"],
-    open_to  : ["Freelance", "Collaboration", "Internships"],
+    open_to  : ["Freelance", "Collaboration", "Open Source"],
     contact  : "vishalsandakelum20@gmail.com"
   };
 ```
